@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alicia
+- 👋 Hi, I’m Alicia.
 - 👀 I’m interested in all things code, yoga and fitness.
 - 🌱 I’m currently learning React and Flask.
 - 💞️ I’m looking to collaborate on anything! I would never pass an opportunity to learn.
